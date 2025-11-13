@@ -85,7 +85,10 @@ Example:
 
 
 Enter the option number to perform a specific operation
+
+
 OUTPUT:
+---------
 
 1. Create Account
 2. Deposit
@@ -148,4 +151,5 @@ Balance: 1300
 7. Check Balance
 8. Exit
 Choose an option: 8
+
 Exiting...
